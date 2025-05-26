@@ -1,1 +1,1 @@
-# Melancia-Ninja
+# Autoencoder CVAE
